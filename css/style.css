@@ -1,0 +1,77 @@
+.fix{    
+        width:100%;height:10%;
+         position: fixed;
+         margin-bottom:40px;
+         margin-left:-12px;
+         top:0;
+         z-index: 1;
+         background-color:#3F3A27;
+         background-repeat: no-repeat;position:fixed;}
+
+.content{
+         margin-top:57px;}
+
+.UpiGanteng{font-size: 85px; 
+	        font-family: Arial; 
+	       color: white;
+}
+.eaealah{font-size:50px; 
+	     padding-right:630px;
+	     font-family: Arial; 
+	     color:white;}
+
+.ea{text-align: left; 
+	margin-left: 200px; 
+	font-size: 22px;font-family: Arial;
+	color:white;}
+
+.berkelas{margin-left: -10px;
+	argin-right: -10px;}
+
+#SideNav a {
+    position: absolute;
+    left: -80px; 
+    transition: 0.3s;
+    padding: 15px;
+    width: 200px;
+    text-decoration: none; 
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+#SideNav a:hover {
+    left: 0;}
+
+#profile1 {
+    margin-top: 20px;
+    background-color: #3F3A27;
+}
+
+#photo1 {
+    margin-top: 260px;
+    background-color: #3F3A27;
+}
+
+#aboutme1 {
+    margin-top: 320px;
+    background-color: #3F3A27;
+}
+
+#kontak {
+    margin-top: 380px;
+    background-color: #3F3A27;
+}
+.first {
+    width: 100%;
+    height: 1000px;
+    background: #ccc;
+}
+
+.second {
+    width: 100%;
+    height: 1000px;
+}
+
+
+
